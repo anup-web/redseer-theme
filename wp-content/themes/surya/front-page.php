@@ -97,7 +97,7 @@
 				</div>
 
                 <div class="col-xs-12 col-md-5">
-					<div class="column-1 article-1"> 
+					<div class="column-1 article-1 mob-box"> 
 						<picture class="featured-image">                         
                           <img src="<?php echo get_bloginfo('template_directory');?>/images/Entertainment.webp" class="img-responsive" alt=""/>
 						 </picture>  
@@ -199,14 +199,14 @@
                 <div class="col-xs-12 col-md-4">
 					<div class="service-list text-left " >						
 						<img src="<?php echo get_bloginfo('template_directory');?>/images/Group-12930.webp" class="img-responsive" alt=""/>
-                        <h3>Offices</h3> 
+                        <h3 class="omob-title">Offices</h3> 
 					</div>
 				</div>
 
                 <div class="col-xs-12 col-md-4">
 					<div class="service-list text-left " >						
 						<img src="<?php echo get_bloginfo('template_directory');?>/images/Group-12931.webp" class="img-responsive" alt=""/> 
-                        <h3>Consultants</h3>
+                        <h3 class="omob-title">Consultants</h3>
 					</div>
 				</div>
 				

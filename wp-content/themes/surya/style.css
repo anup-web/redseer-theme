@@ -1141,7 +1141,37 @@ footer a {
 	.main-menu .navbar-collapse > .navigation li.dropdown:after,
 	.main-menu .navigation > li > ul:before{display:none !important;}
 	.main-header.header-style-three .nav-outer .main-menu::before {right: -2px;transform: skew(0);-moz-transform: skew(0);}	
-	
+	.talkt-btn, .slide-text > p{display: none;}
+    .slide-text > h1{font-size: 14px;}
+    .kndustry-title h2, .sub h2, .worldwide-title h2, .foundation-works h2, .service-list h2, .most-quoted h2{font-size: 20px;}
+    .benchmarks {  padding-top: 20px;}
+    .kndustry-title {  padding-bottom: 10px;} 
+    .col-ht {  height: 100%; } 
+    .column-1 h1 {font-size: 18px;}
+    .red-team {  padding-top: 30px;}
+    .padding-lr {  padding: 0px; }
+    .footer-column {  margin-left: 0px;  margin-bottom: 40px;  min-height: auto;  width: 100%;  float: left;  padding-top: 0px; }
+    .co-info{ padding: 30px; }
+    .all-reserved{padding-bottom: 0px;}
+    footer ul li{line-height: 25px;}
+    .bm-footer {padding-top: 0px;}
+    .apparel-market h3 {  min-height: 100%;  padding-right: 0px;  padding-bottom: 20px;  padding-top: 20px;  font-size: 20px; }
+    .benchmarks .service-list h2{font-size: 20px;} 
+    .benchmarks .service-list, .worldwide-title {padding-bottom: 20px;}
+    .banner {  padding: 20px 0px 30px 0px; } 
+    .team-bx {height: 100%;}
+    .charity-box{padding-left: 0px;}
+    .gallery-box {  padding-top: 30px; }
+    .gallery-box-col .image-box img {  width: 50%; }
+    .gallery-box-col .image-box {  width: 50%;  padding-bottom: 20px; }
+    .mob-box{margin-top: 20px;}
+    .subscribe{font-size: 12px;  width: 100px;  line-height: 20px;}
+    .omob-title{font-size: 16px;}
+    .red-meet{padding: 0px; background: none;}
+    .footer-logo img {  width: 125px; }
+    footer a{font-size: 13px;}
+    .red-meet-sub {  min-height: 25vh;}
+
 }
  
 @media only screen and (min-width: 768px){
